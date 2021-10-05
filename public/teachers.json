@@ -1,0 +1,86 @@
+[
+  {
+    "key": "B001RL8IYK",
+    "name": "Guido van Rossum",
+    "language": "Python",
+    "phone": "01512345601",
+    "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+  },
+  {
+    "key": "B002RL8IYK",
+    "name": "Brendan Eich",
+    "language": "JavaScript",
+    "phone": "01512345602",
+    "img": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B003RL8IYK",
+    "name": "James Gosling",
+    "language": "Java",
+    "phone": "01512345603",
+    "img": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B004RL8IYK",
+    "name": "Anders Hejlsberg",
+    "language": "C#",
+    "phone": "01512345604",
+    "img": "https://images.pexels.com/photos/6626903/pexels-photo-6626903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B005RL8IYK",
+    "name": "Dennis Ritchie",
+    "language": "C",
+    "phone": "01512345605",
+    "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B006RL8IYK",
+    "name": "Bjarne Stroustrup",
+    "language": "C++",
+    "phone": "01512345606",
+    "img": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B007RL8IYK",
+    "name": "Ken Thompson",
+    "language": "Go",
+    "phone": "01512345607",
+    "img": "https://www.computerhope.com/people/pictures/ken_thompson.jpg"
+  },
+  {
+    "key": "B008RL8IYK",
+    "name": "Ross Ihaka",
+    "language": "R",
+    "phone": "01512345608",
+    "img": "https://images.pexels.com/photos/6801642/pexels-photo-6801642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B009RL8IYK",
+    "name": "Chris Lattner",
+    "language": "Swift",
+    "phone": "01512345609",
+    "img": "https://images.pexels.com/photos/5486199/pexels-photo-5486199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B0010RL8IYK",
+    "name": "Rasmus Lerdorf",
+    "language": "PHP",
+    "phone": "01512345610",
+    "img": "https://images.pexels.com/photos/2955376/pexels-photo-2955376.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B0011RL8IYK",
+    "name": "Lars Bak",
+    "language": "Dart",
+    "phone": "01512345611",
+    "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+  },
+  {
+    "key": "B0012RL8IYK",
+    "name": "Andrey Breslav",
+    "language": "Kotlin",
+    "phone": "01512345612",
+    "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+  }
+]
